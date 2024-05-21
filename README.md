@@ -30,7 +30,7 @@ Clone the repository:
 
 sh
 Copy code
-git clone https://github.com/your-username/bus-pass-ticket-management.git
+git clone https://github.com/nocturnalnoob/bus-pass-ticket-management.git
 cd bus-pass-ticket-management
 Set up the MySQL database:
 
